@@ -1,2 +1,1 @@
-# Portfolio-Website
-HTML portfolio website that serves as a digital canvas to showcase my professional journey.
+Welcome to my portfolio! I'm Khyaati Khanna, a computer science enthusiast at the University of Houston, deeply engaged in the CS community through various leadership roles. My portfolio is a showcase of diverse projects that exemplify my skills and passion for technology. Whether it's organizing events that foster collaboration or creating solutions that tackle real-world challenges, my journey reflects a commitment to innovation and making a positive impact. Join me as I explore the ever-evolving landscape of computer science, driven by a continuous quest for learning and growth. Let's connect and discuss the exciting possibilities that lie ahead!
