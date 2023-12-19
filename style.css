@@ -3,7 +3,7 @@
 :root{
 	--main-background: #000000;
 	--main-fonts-color: #ff6a00;
-	--main-decor-color:#38571a;
+	--main-decor-color:#562c1a;
     --main-header-background:#21252e;
 	--main-font-family: 'Poppins', sans-serif;
 }
@@ -20,10 +20,6 @@ main{
 	height: 100%;
 	background: var(--main-background);
 }
-
-/*────────────────── 
-       header
-──────────────────*/
 
 header{
 	margin: 0 auto;
@@ -78,10 +74,6 @@ a.nav-link{
     background: var(--main-decor-color);
 }
 
-/*──────────────────
-       home
-──────────────────*/
-
 #home{ 	
 	margin: auto;
 	height: 100vh;
@@ -128,12 +120,6 @@ a.nav-link{
 	color: var(--main-fonts-color);
 	text-shadow: 0px 0px 40px var(--main-decor-color);
 }
-
-
-/*──────────────────
-    social media
-──────────────────*/
-
 .social-media{
 	padding: 10px;
 	display: flex;
@@ -158,10 +144,6 @@ a.nav-link{
 	color: var(--main-decor-color);
 	text-shadow: 0 0 50px var(--main-decor-color);
 }
-
-/*──────────────────
-      projects
-──────────────────*/
 
 #projects{
 	margin-top:100px;
@@ -228,10 +210,6 @@ a.nav-link{
 	box-shadow: 0 0 1.5rem gray;
 }
 
-/*──────────────────
-      Contact
-──────────────────*/
-
 #contact{
 	margin: auto;
 	padding-bottom: 20px;
@@ -249,10 +227,6 @@ a.nav-link{
 	font-size:1.2rem;
 	font-family: var(--main-font-family);
 }
-
-/*────────────────── 
-       footer
-──────────────────*/
 
 footer {
 	width: 100%;
@@ -279,7 +253,6 @@ footer {
 	color: var(--main-decor-color);
 }
 
-/*──── hr ─────*/
 
 hr {
     background: var(--main-decor-color);
@@ -292,9 +265,6 @@ hr {
     margin-inline-end: auto;
 }
 
-/*────────────────── 
-     Scrollbar
-──────────────────*/
 ::-webkit-Scrollbar{
     width: 5px; 
 	background: rgba(5,5,5,1);
@@ -309,9 +279,7 @@ hr {
 	border-radius: 10px;
 }
 
-/*────────────────── 
-     hamburger
-──────────────────*/
+
 .hamburger {
 	display: none;
 }
@@ -347,9 +315,6 @@ hr {
 	}
 }
 
-/*────────────────── 
-    media queries
-──────────────────*/
 
 @media only screen and (max-width: 1484px) and (min-width: 1214px) {
 	.work{
